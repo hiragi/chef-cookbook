@@ -20,3 +20,7 @@ config.vm.network :public_network
 * screen
 * ufw
 * ntp
+* openjdk-7-jre
+* openjdk-7-jdk
+* openjdk-7-source
+* rvm

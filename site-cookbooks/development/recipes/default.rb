@@ -50,6 +50,7 @@ bash "install quicklisp" do
   EOS
 end
 
+=begin
 bash "install rvm" do
   user "root"
 
@@ -61,7 +62,6 @@ bash "install rvm" do
   EOS
 end
 
-=begin
 bash "clone dotfiles" do
   user "root"
 

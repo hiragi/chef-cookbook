@@ -3,7 +3,11 @@
 ## REFS
 http://docs.komagata.org/5098
 
+### VAGRANT FILE
+config.vm.network :public_network
+
 ## DEVELOPMENT(Debian)
+* sudo
 * emacs
 * nginx
 * apache2
@@ -15,3 +19,4 @@ http://docs.komagata.org/5098
 * redis-server
 * screen
 * ufw
+* ntp

@@ -1,6 +1,7 @@
 {
   "run_list":[
     "nginx",
-    "apache2"
+    "apache2",
+    "development"
   ]
 }

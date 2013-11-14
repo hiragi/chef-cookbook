@@ -27,3 +27,4 @@ config.vm.network :public_network
 * ruby-dev
 * libmysql-ruby
 * libmysqlclient-dev
+* libyaml-dev

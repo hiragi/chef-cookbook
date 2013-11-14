@@ -7,7 +7,7 @@
 # All rights reserved - Do Not Redistribute
 #
 
-%w{zsh apache2 emacs mysql-server vim redis-server sbcl screen ufw ntp sudo openjdk-7-jre openjdk-7-jdk openjdk-7-source ruby-dev libmysql-ruby libmysqlclient-dev libyaml-dev}.each do |pkg|
+%w{zsh apache2 emacs mysql-server vim redis-server sbcl screen ufw ntp sudo openjdk-7-jre openjdk-7-jdk openjdk-7-source ruby-dev libmysql-ruby libmysqlclient-dev libyaml-dev libxml2-dev libxslt-dev}.each do |pkg|
   package pkg do
     action :install
   end

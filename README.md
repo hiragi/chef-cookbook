@@ -24,3 +24,6 @@ config.vm.network :public_network
 * openjdk-7-jdk
 * openjdk-7-source
 * rvm
+* ruby-dev
+* libmysql-ruby
+* libmysqlclient-dev
